@@ -1,0 +1,4 @@
+TO DO 
+
+--continuer la data transformations des claims avec amazon sage maker data wrangler
+--commencer le préprocessing DS
